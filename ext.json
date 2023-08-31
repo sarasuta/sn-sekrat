@@ -1,0 +1,11 @@
+{
+  "identifier": "com.sarasuta.sn-sekrat-editor",
+  "name": "Sekrat Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0",
+  "description": "An editor for writing things down.",
+  "url": "https://raw.githack.com/sarasuta/sn-sekrat/main/index.html",
+  "download_url": "https://github.com/sarasuta/sn-sekrat/archive/refs/tags/1.0.zip",
+  "latest_url": "https://raw.githack.com/sarasuta/sn-sekrat/main/ext.json"
+}
